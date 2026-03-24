@@ -2,15 +2,18 @@
 
 📊 Excel Sales Dashboard Project
 🔍 Overview
+#Dateset Used
+- <a herf= "https://github.com/Hkgolu281099-git/Excel-project/blob/main/Excel%20%20Dashboard%20Project.xlsx" >datset value</a>
 
 Developed an interactive and dynamic Excel Sales Dashboard to analyze business performance and generate actionable insights. The dashboard transforms raw data into meaningful visualizations, enabling efficient decision-making.
-
+dashboard <a herf= "https://github.com/Hkgolu281099-git/Excel-project/blob/main/Annotation%202026-03-24%20142852.png"> dashboard view </a>
 🎯 Key Objectives
 Designed a structured dataset for sales analysis
 Built an interactive dashboard for real-time insights
 Automated data aggregation using Excel formulas and Pivot Tables
 Enhanced data visualization for better reporting
 📂 Dataset Description
+<img width="1315" height="545" alt="Annotation 2026-03-24 142852" src="https://github.com/user-attachments/assets/27f40857-7c06-43b5-93c6-28e21e92e569" />
 
 The dataset consists of transactional sales records with the following attributes:
 
